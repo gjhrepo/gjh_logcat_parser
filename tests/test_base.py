@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from gjh_logcat_parser.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "gjh_logcat_parser"
